@@ -502,7 +502,7 @@ pages:
       - Squeezer: 'Mods/IntegratedDynamics/Squeezer.md'
       - MechanicalSqueezer: 'Mods/IntegratedDynamics/MechanicalSqueezer.md'
     - InWorldCrafting:
-      - InWorldCrafting: 'Mods/InWorldCrafting/InWorldCrafting.md'
+      - Introduction: 'Mods/InWorldCrafting/InWorldCrafting.md'
     - JAOPCA:
       - JAOPCA: 'Mods/JAOPCA/JAOPCA.md'
       - OreEntry: 'Mods/JAOPCA/OreEntry.md'
